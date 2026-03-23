@@ -52,7 +52,7 @@ fun CardResultado(modifier: Modifier = Modifier, juros: Double, montante: Double
                 Text(
                     text = "$juros",
                     fontWeight = FontWeight.Bold,
-                    color = Color.White,
+                    color    = Color.White,
                     fontSize = 24.sp
                 )
             }
